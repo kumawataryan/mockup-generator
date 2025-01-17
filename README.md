@@ -2,6 +2,8 @@
 
 The **Mockup Generator** is a web-based tool that allows users to create custom mockups for their design projects. It leverages the powerful capabilities of **Fabric.js** to provide an interactive and easy-to-use canvas for adding images, text, and other elements to mockup templates. The goal of the project is to allow designers to quickly and easily create mockups without needing advanced design skills or software.
 
+<img width="2239" alt="Screenshot 2025-01-17 at 11 35 01 AM" src="https://github.com/user-attachments/assets/d3ff3eda-6bc0-40f9-9e46-569ad0290b08" />
+
 ## Key Features
 
 - **Interactive Canvas**: Use the canvas to place and manipulate elements like text, images, shapes, and more.
@@ -26,5 +28,3 @@ You can try the Mockup Generator here:
 
 - Live Demo: [Online Mockup Generator](http://mockupdaddy.com/2d-editor)
 - Explore all mockups editable in this tool: [Mockup Generator](https://www.mockupdaddy.com/generator)
-
-<img width="2239" alt="Screenshot 2025-01-17 at 11 35 01 AM" src="https://github.com/user-attachments/assets/d3ff3eda-6bc0-40f9-9e46-569ad0290b08" />
