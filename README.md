@@ -25,4 +25,4 @@ The **Mockup Generator** was built using **Fabric.js**, a powerful HTML5 canvas 
 You can try the Mockup Generator here:
 
 - Live Demo: [Online Mockup Generator](http://mockupdaddy.com/2d-editor)
-- Explore More Templates: [MOckup Generator](https://www.mockupdaddy.com/generator)
+- Explore all mockups editable in this tool: [Mockup Generator](https://www.mockupdaddy.com/generator)
